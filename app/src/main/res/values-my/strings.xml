@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">คีย์บอร์ดอาหม</string>
+    <string name="app_version">1.0.1</string>
+    <string name="enable_keyboard_title">1. เปิดใช้งานคีย์บอร์ด</string>
+    <string name="choose_keyboard_title">2. เลือกแป้นพิมพ์</string>
+    <string name="app_language">ภาษาของแอป</string>
+    <string name="choose_language">เลือกภาษา</string>
+    <string name="enable_vibrate_title">เปิดใช้งานการสั่นของปุ่ม</string>
+    <string name="enable_sound_title">เปิดใช้งานเสียงหลัก</string>
+    <string name="enable_key_preview">เปิดใช้งานการแสดงตัวอย่างคีย์</string>
+    <string name="enable_suggestions">เปิดใช้งานคำแนะนำ</string>
+    <string name="choose_theme_title">เลือกธีมคีย์บอร์ด</string>
+    <string name="test_keyboard_title">ทดสอบคีย์บอร์ด</string>
+    <string name="about_us">เกี่ยวกับเรา</string>
+    <string name="about_title">คีย์บอร์ดอาหม</string>
+    <string name="thank_you">ขอขอบคุณที่ใช้คีย์บอร์ดอาหม</string>
+    <string name="asahi_flair">อาซาฮี แฟลร์</string>
+    <string name="change_app_language">เปลี่ยนภาษาของแอป</string>
+    <string name="enable_choose_keyboard">กรุณาเปิดใช้งานและเลือกแป้นพิมพ์อาหม</string>
+</resources>

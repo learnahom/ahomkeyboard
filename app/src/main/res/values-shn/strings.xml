@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">𑜁𑜣:𑜆𑜨𑜓𑜫, 𑜒𑜑𑜪𑜨:</string>
+    <string name="app_version">1.0.1</string>
+    <string name="enable_keyboard_title">1. 𑜆𑜢𑜤𑜄𑜫, 𑜇𑜤𑜐𑜫, 𑜁𑜣:𑜆𑜨𑜓𑜫,</string>
+    <string name="choose_keyboard_title">2. 𑜎𑜢𑜤𑜀𑜫;𑜋𑜧.𑜄𑜢𑜈𑜫: 𑜁𑜣:𑜆𑜨𑜓𑜫,</string>
+    <string name="app_language">𑜁𑜨𑜉𑜫: 𑜒𑜦𑜆𑜫:</string>
+    <string name="choose_language">𑜎𑜢𑜤𑜀𑜫;𑜋𑜧.𑜄𑜢𑜈𑜫: 𑜁𑜣:𑜆𑜨𑜓𑜫,</string>
+    <string name="enable_vibrate_title">𑜆𑜢𑜤𑜄𑜫, 𑜇𑜤𑜐𑜫, 𑜒𑜃𑜫 𑜄𑜥𑜂𑜫. 𑜏𑜃𑜫,</string>
+    <string name="enable_sound_title">𑜆𑜢𑜤𑜄𑜫, 𑜇𑜤𑜐𑜫, 𑜏𑜦𑜂𑜫 𑜁𑜣:</string>
+    <string name="enable_key_preview">𑜆𑜢𑜤𑜄𑜫, 𑜇𑜤𑜐𑜫, 𑜍า𑜂𑜫; 𑜁𑜣:</string>
+    <string name="enable_suggestions">𑜆𑜢𑜤𑜄𑜫, 𑜇𑜤𑜐𑜫, 𑜁𑜦𑜡; 𑜄า𑜂𑜫, 𑜃𑜦𑜧</string>
+    <string name="choose_theme_title">𑜎𑜢𑜤𑜀𑜫;𑜋𑜧. 𑜍า𑜂𑜫; 𑜁𑜣:𑜆𑜨𑜓𑜫,</string>
+    <string name="test_keyboard_title">𑜋า𑜉𑜫: 𑜄𑜥𑜐𑜫: 𑜁𑜣:𑜆𑜨𑜓𑜫,</string>
+    <string name="about_us">𑜎𑜨𑜂𑜫; 𑜍𑜈𑜫:</string>
+    <string name="about_title">𑜁𑜣:𑜆𑜨𑜓𑜫, 𑜒𑜑𑜪𑜨:</string>
+    <string name="thank_you">𑜊𑜢𑜃𑜫: 𑜋𑜤𑜉𑜫: 𑜒𑜃𑜫 𑜋𑜧. 𑜄𑜢𑜤𑜈𑜫: 𑜁𑜣:𑜆𑜨𑜓𑜫, 𑜒𑜑𑜪𑜨: 𑜊𑜥, 𑜁𑜡;</string>
+    <string name="asahi_flair">𑜒𑜡,𑜏า𑜑𑜣, 𑜇𑜝𑜦𑜍𑜫</string>
+    <string name="change_app_language">𑜎𑜦𑜦𑜀𑜫 𑜎𑜩า 𑜁𑜨𑜉𑜫: 𑜒𑜦𑜆𑜫:</string>
+    <string name="enable_choose_keyboard">𑜆𑜢𑜤𑜄𑜫, 𑜇𑜤𑜐𑜫, 𑜊𑜈𑜫. 𑜎𑜢𑜤𑜀𑜫;𑜋𑜧. 𑜆𑜃𑜫 𑜁𑜣:𑜆𑜨𑜓𑜫, 𑜒𑜑𑜪𑜨: 𑜎𑜦𑜧;</string>
+</resources>

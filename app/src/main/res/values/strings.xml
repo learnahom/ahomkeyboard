@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ahom Keyboard</string>
+    <string name="app_version">1.0.1</string>
+    <string name="enable_keyboard_title">1. Enable Keyboard</string>
+    <string name="choose_keyboard_title">2. Choose Keyboard</string>
+    <string name="app_language">App Language</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="enable_vibrate_title">Enable Key Vibration</string>
+    <string name="enable_sound_title">Enable Key Sound</string>
+    <string name="enable_key_preview">Enable Key Preview</string>
+    <string name="enable_suggestions">Show Suggestions</string>
+    <string name="choose_theme_title">Choose Keyboard Theme</string>
+    <string name="test_keyboard_title">Test Keyboard</string>
+    <string name="about_us">About Us</string>
+    <string name="about_title">Ahom Keyboard</string>
+    <string name="thank_you">Thank you for using Ahom Keyboard</string>
+    <string name="asahi_flair">Asahi Flair</string>
+    <string name="change_app_language">Change App Language</string>
+    <string name="enable_choose_keyboard">Please enable and choose Ahom Keyboard</string>
+</resources>
